@@ -59,10 +59,10 @@
 <img width="1452" height="952" alt="image" src="https://github.com/user-attachments/assets/371f3755-580b-4c35-8e60-d89ce80bbeae" />
 ---
 <img width="500" height="497" alt="image" src="https://github.com/user-attachments/assets/51b9d8e7-deed-4fde-8f93-ba5c92aab866" />
----
-##具体视频：
-<video src="https://raw.githubusercontent.com/t84RT/ESP32-802.11-Frame-Capture-Visualizer/main/demo.mp4" controls></video>
----
+
+## 具体视频：
+[![点击查看演示视频](demo_thumb.png)](https://github.com/t84RT/ESP32-802.11-Frame-Capture-Visualizer/blob/main/bandicam%202026-08-17%2017-50-49-491.mp4)
+
 
 ## Project Overview
 
