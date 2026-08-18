@@ -64,7 +64,7 @@
 
 ## 具体视频：
 [![点击查看演示视频](https://github.com/user-attachments/assets/371f3755-580b-4c35-8e60-d89ce80bbeae)](https://github.com/t84RT/ESP32-802.11-Frame-Capture-Visualizer/blob/main/bandicam%202026-08-17%2017-50-49-491.mp4)
-
+[![点击查看演示视频](https://github.com/user-attachments/assets/371f3755-580b-4c35-8e60-d89ce80bbeae)](https://github.com/t84RT/ESP32-802.11-Frame-Capture-Visualizer/blob/main/bandicam%202026-08-18%2010-20-49-950.mp4)
 
 ## Project Overview
 
