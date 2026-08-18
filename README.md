@@ -59,6 +59,8 @@
 <img width="1452" height="952" alt="image" src="https://github.com/user-attachments/assets/371f3755-580b-4c35-8e60-d89ce80bbeae" />
 ---
 <img width="500" height="497" alt="image" src="https://github.com/user-attachments/assets/51b9d8e7-deed-4fde-8f93-ba5c92aab866" />
+---
+<img width="748" height="732" alt="image" src="https://github.com/user-attachments/assets/3714ca55-ec70-49a4-80cf-30d1fb8e872f" />
 
 ## 具体视频：
 [![点击查看演示视频](https://github.com/user-attachments/assets/371f3755-580b-4c35-8e60-d89ce80bbeae)](https://github.com/t84RT/ESP32-802.11-Frame-Capture-Visualizer/blob/main/bandicam%202026-08-17%2017-50-49-491.mp4)
